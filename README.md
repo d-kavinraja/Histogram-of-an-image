@@ -7,15 +7,14 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-kishore
+
 
 ### Step2:
 <br>
 
 ### Step3:
 <br>
-defjhfdsihdvsiuhiu
-### Step4:4ontlllllllllllll 2
+
 <br>
 
 ### Step5:
