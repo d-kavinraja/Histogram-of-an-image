@@ -7,15 +7,15 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+kishore
 
 ### Step2:
 <br>
 
 ### Step3:
 <br>
-
-### Step4:
+defjhfdsihdvsiuhiu
+### Step4:4ontlllllllllllll 2
 <br>
 
 ### Step5:
@@ -27,6 +27,7 @@ Anaconda - Python 3.7
 # Register Number:
 import cv2
 import matplotlib.pyplot as plt
+
 
 # Write your code to find the histogram of gray scale image and color image channels.
 
