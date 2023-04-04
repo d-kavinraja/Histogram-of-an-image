@@ -90,7 +90,7 @@ cv2.destroyAllWindows()
 ![OUTPUT](./pho3.png)
 ![OUTPUT](./pho4.png)
 
-### Histogram Equalization of Grayscale Image
+### Histogram Equalization of Grayscale Image.
 ![OUTPUT](./pho5.png)
 
 
